@@ -4,18 +4,18 @@
 <h1 align="center">Hi 🤖, I'm Marcello</h1>
 <h3 align="center">I'm eager improve my coding skills! 👩‍💻</h3>
 
- <img align="right" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coding">
+ <img align="right" width="400" height="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coding">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evox7&label=Profile%20views&color=0e75b6&style=flat" alt="evox7" /> </p>
 
-- 🔭 I’m currently working on **Learning new programming languages**
+- 🚀 I’m currently working on -  **Learning new programming languages**
 
-- 🌱 I’m currently learning **Full Stack Web Developer**
+- 🌱 I’m currently learning - **Full Stack Web Developer**
 
-- 💬 Ask me about **Tech|Dev|Gaming|**
+- 💬 Ask me about - **Tech|Dev|Gaming**
 
-- ⚡ Fun fact **No pineapples on pizzas!**
+- 🤹 Fun fact - **"No pineapples on pizzas!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
