@@ -1,3 +1,5 @@
+<img align="right" src="https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif" width="100%" alt="Coding">
+
 <h1 align="center">Hi 🤖, I'm Marcello</h1>
 <h3 align="center">I'm eager improve my coding skills! 👩‍💻</h3>
 <br>
