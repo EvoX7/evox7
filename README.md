@@ -4,7 +4,7 @@
 <h1 align="center">Hi 🤖, I'm Marcello</h1>
 <h3 align="center">I'm eager improve my coding skills! 👩‍💻</h3>
 
- <img align="right" width="400" height="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coding">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evox7&label=Profile%20views&color=0e75b6&style=flat" alt="evox7" /> </p>
