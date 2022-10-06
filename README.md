@@ -7,9 +7,7 @@
 <img align="right" src="https://i.pinimg.com/originals/69/20/fc/6920fc266ea0a8bfbb02561dfdd18f1c.png" width="400" alt="Coding">
 <h3 align="left">Status</h3>
 
-- 🚀 I’m currently working on **Learning new programming languages**
-
-- 🌱 I’m currently learning **Full Stack Web Developer**
+- 🚀  I’m currently learning about **Full Stack Web Developer**
 
 - 💬 Ask me about **Tech|Dev|Gaming**
 
