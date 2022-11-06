@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/marcello-esp-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcello-esp-dev/" height="30" width="40" /></a>
 </p>
-<br>
+
 
 <h3 align="left">Languages and Frameworks</h3>
 <p align="left"> 
