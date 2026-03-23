@@ -64,7 +64,7 @@ Frontend, UI, Nuxt o semplicemente parlare di sviluppo.
 Non cerco di sapere tutto — cerco di diventare davvero bravo nelle cose che contano.
 
 
-
+---
 
 
 🇬🇧
