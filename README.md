@@ -1,6 +1,6 @@
 <img align="right" src="https://i.pinimg.com/originals/69/20/fc/6920fc266ea0a8bfbb02561dfdd18f1c.png" width="380" alt="coding vibe"/>
 
-# Hey, I'm Mar 👋
+# Hey, I'm Marc 👋
 
 Frontend-focused developer based in Italy.  
 I build interfaces that feel fast, clean and intentional — not just “working”.
@@ -13,11 +13,11 @@ trying to push more towards polished UI + solid architecture.
 ## ⚙️ Current stack
 
 - **Framework:** Nuxt 4
-- **Language:** TypeScript
+- **Language:** Javascript/TypeScript
 - **Styling:** Tailwind CSS
 - **UI approach:** Design systems, reusable components, theme-driven UI
 - **Runtime:** Node.js
-- **Use of Api:** Claude Api, Voayge Api
+- **Use of Api:** Claude Api, Voyage Api
 
 ---
 
@@ -34,9 +34,16 @@ trying to push more towards polished UI + solid architecture.
 
 - Building and refining personal projects  
 - Experimenting with layout systems, themes and motion (GSAP, UI patterns)  
-- Leveling up on frontend architecture  
-
+- Leveling up on frontend architecture
 ---
+
+## 🧪 Exploring
+
+- Python for backend logic and automation  
+- Retrieval-Augmented Generation (RAG) patterns  
+- LLM integration workflows (LangChain, APIs)
+
+Still early, but building small experiments to understand how AI fits into real products.
 
 ## 💬 You can ask me about
 
