@@ -56,7 +56,7 @@ Frontend, UI, Nuxt o semplicemente parlare di sviluppo.
 ## 🌐 Contatti
 
 - LinkedIn → 
-
+- Email → marcello.esp.dev@gmail.com 
 ---
 
 ## ⚡ Nota
@@ -122,7 +122,7 @@ Frontend, UI patterns, Nuxt, or just random dev stuff.
 ## 🌐 Connect
 
 - LinkedIn →
-
+- Email → marcello.esp.dev@gmail.com 
 ---
 
 ## ⚡ Small note
