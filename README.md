@@ -1,5 +1,73 @@
-<img align="right" src="https://i.pinimg.com/originals/69/20/fc/6920fc266ea0a8bfbb02561dfdd18f1c.png" width="380" alt="coding vibe"/>
+🇮🇹
+# Ciao, sono Marc 👋
 
+Frontend developer con base in Italia.  
+Mi piace costruire interfacce veloci, pulite e pensate — non solo “funzionanti”.
+
+Negli ultimi tempi mi sto concentrando su workflow full-stack moderni con Nuxt, 
+con l’obiettivo di spingere sempre di più su UI curate e architetture solide.
+
+---
+
+## ⚙️ Stack attuale
+
+- **Framework:** Nuxt 4  
+- **Linguaggi:** JavaScript / TypeScript  
+- **Styling:** Tailwind CSS  
+- **Approccio UI:** design system, componenti riutilizzabili, theming  
+- **Runtime:** Node.js  
+- **Integrazione API:** Claude API, Voyage API  
+
+---
+
+## 🧠 Cosa mi interessa davvero
+
+- Interfacce che siano davvero piacevoli da usare  
+- Codice pulito, non “funziona e basta”  
+- Animazioni solo quando aggiungono valore  
+- Semplificare senza banalizzare  
+
+---
+
+## 🚀 Attualmente
+
+- Sto sviluppando e migliorando progetti personali  
+- Sperimento con layout, sistemi di tema e motion (GSAP, UI patterns)  
+- Sto lavorando per alzare il livello sull’architettura frontend  
+
+---
+
+## 🧪 Sto esplorando
+
+- Python per logica backend e automazioni  
+- Pattern di Retrieval-Augmented Generation (RAG)  
+- Workflow per integrazione di LLM (LangChain, API)
+
+Sono ancora nelle fasi iniziali, ma sto costruendo piccoli progetti per capire come integrare davvero l’AI in prodotti concreti.
+
+---
+
+## 💬 Puoi chiedermi di
+
+Frontend, UI, Nuxt o semplicemente parlare di sviluppo.
+
+---
+
+## 🌐 Contatti
+
+- LinkedIn → 
+
+---
+
+## ⚡ Nota
+
+Non cerco di sapere tutto — cerco di diventare davvero bravo nelle cose che contano.
+
+
+
+
+
+🇬🇧
 # Hey, I'm Marc 👋
 
 Frontend-focused developer based in Italy.  
