@@ -45,7 +45,7 @@ Frontend, UI patterns, Nuxt, or just random dev stuff.
 
 ## 🌐 Connect
 
-- LinkedIn → *(add your link here)*
+- LinkedIn →
 
 ---
 
