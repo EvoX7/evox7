@@ -17,6 +17,7 @@ trying to push more towards polished UI + solid architecture.
 - **Styling:** Tailwind CSS
 - **UI approach:** Design systems, reusable components, theme-driven UI
 - **Runtime:** Node.js
+- **Use of Api:** Claude Api, Voayge Api
 
 ---
 
