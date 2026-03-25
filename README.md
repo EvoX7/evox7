@@ -1,7 +1,7 @@
 🇮🇹
 # Ciao, sono Marc 👋
 
-Frontend developer con base in Italia.  
+Frontend developer italiano. 
 Mi piace costruire interfacce veloci, pulite e pensate — non solo “funzionanti”.
 
 Negli ultimi tempi mi sto concentrando su workflow full-stack moderni con Nuxt, 
